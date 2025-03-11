@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋
+# Welcome to My GitHub 👋
 I’m an aspiring AWS professional targeting certifications in Solutions Architect and Data Engineer by May 2025. I’m building expertise in AWS cloud services, Python, and data engineering through hands-on projects like [NxtGen](https://github.com/LihleDon/NxtGen).  
 
 ### Focus Areas  
