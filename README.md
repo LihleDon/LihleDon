@@ -24,7 +24,7 @@ A dedicated professional focused on crafting efficient, automateded, serverless 
 ---
 
 ## Highlighted Projects  
-Evidence of applied skills through practical, industry-aligned AWS solutions:  
+Demonstrated proficiency through practical, real-world, industry-aligned AWS solutions:  
 
 1. **[Real-Time Music Playlist Recommendation Engine](#)**  
    - **Objective**: Serverless pipeline for real-time playlist recommendations.  
