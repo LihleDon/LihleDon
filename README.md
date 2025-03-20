@@ -11,7 +11,7 @@ A dedicated professional focused on crafting efficient, serverless data solution
   - AWS Solutions Architect Associate (Targeted Completion: April 2025)  
   - AWS Certified Data Engineer Associate (Scheduled Exam: April 18, 2025)  
   - SQL (Codecademy) | HashiCorp Certified: Terraform Associate (Udemy)  
-- **Professional Network**: 500+ tech connections via [LinkedIn](https://www.linkedin.com/in/lihle-dotyeni-28297126b)
+- **Professional Network**: 500+ tech connections via [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b)
 
 ---
 
