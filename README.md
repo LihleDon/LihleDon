@@ -1,5 +1,5 @@
 # Lihle Dotyeni  
-### AWS Data Engineer in Training | Data Pipeline Architect | Cloud Solutions Enthusiast 🌥️  
+### AWS Data Engineer in Training | Data Pipeline Architect | Cloud Solutions Enthusiast
 
 A dedicated professional focused on crafting efficient, serverless data solutions with AWS. Through self-driven learning, this profile highlights practical experience with cloud tools and a strong commitment to solving real-world data challenges.
 
@@ -7,11 +7,11 @@ A dedicated professional focused on crafting efficient, serverless data solution
 
 ## Expertise & Credentials 📜  
 - **Certifications**:  
-  - AWS Certified Cloud Practitioner (Completed) ✅  
-  - AWS Solutions Architect Associate (Targeted Completion: April 2025) ⏳  
-  - AWS Certified Data Engineer Associate (Scheduled Exam: April 18, 2025) ⏳  
-  - SQL (Codecademy) | HashiCorp Certified: Terraform Associate (Udemy) ✅  
-- **Professional Network**: 500+ tech connections via [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b) 🤝  
+  - AWS Certified Cloud Practitioner (Completed) 
+  - AWS Solutions Architect Associate (Targeted Completion)
+  - AWS Certified Data Engineer Associate (Scheduled Exam)  
+  - SQL (Codecademy) | HashiCorp Certified: Terraform Associate (Udemy)
+- **Professional Network**: 500+ tech connections via [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b) 
 
 ---
 
@@ -23,7 +23,7 @@ A dedicated professional focused on crafting efficient, serverless data solution
 
 ---
 
-## Highlighted Projects 🚀  
+## Highlighted Projects 
 Demonstrated proficiency through practical, real-world, industry-aligned AWS solutions:  
 
 1. **[Real-Time Music Playlist Recommendation Engine](#)** 🎶  
@@ -51,11 +51,11 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
    - **AWS Stack**: Lambda, S3, DynamoDB, Step Functions, CloudWatch.  
    - **Value**: Demonstrates robust ETL capabilities for enterprise use.  
 
-*Repositories contain detailed implementations and outcomes.* 📂  
+*Repositories contain detailed implementations and outcomes.* 
 
 ---
 
-## Professional Strengths 💪  
+## Professional Strengths  
 - **Initiative**: Acquired advanced AWS skills from a non-technical foundation.  
 - **Application**: Delivered projects addressing real-world data challenges.  
 - **Adaptability**: Continuously refining expertise through certifications and practice.  
@@ -66,6 +66,6 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
 ## Connect 📬  
 - LinkedIn: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b)  
 - Email: [1lihle001@gmail.com](mailto:1lihle001@gmail.com)  
-- **Objective**: Targeting AWS Data Engineering opportunities to contribute value and gain innovative experience. 🌟  
+- **Objective**: Targeting AWS Data Engineering opportunities to contribute value and gain innovative experience. 
 
 *Currently refining skills and certifications to deliver value in cloud engineering roles.* ⚙️  
