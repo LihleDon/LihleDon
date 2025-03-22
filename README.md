@@ -11,7 +11,7 @@ A dedicated professional focused on crafting efficient, serverless data solution
   - AWS Solutions Architect Associate (Targeted Completion)
   - AWS Certified Data Engineer Associate (Scheduled Exam)  
   - SQL (Codecademy) | HashiCorp Certified: Terraform Associate (Udemy)
-- **Professional Network**: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b) 
+- **Professional Network**: LinkedIn: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b) 
 
 ---
 
