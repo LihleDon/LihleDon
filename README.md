@@ -24,27 +24,54 @@ A dedicated professional focused on crafting efficient, serverless data solution
 ---
 
 ## Highlighted Projects 
-Demonstrated proficiency through practical, real-world, industry-aligned AWS solutions:  
+Demonstrated proficiency through practical, real-world, industry-aligned AWS solutions: 
 
-1. **[Real-Time Music Playlist Recommendation Engine](#)** 🎶  
+
+1. **[Sales Data Sync Automation Pipeline](#)** 📈 
+   - **Objective**: Aligns sales data across systems for accuracy.  
+   - **AWS Stack**: Lambda, S3, DynamoDB, Step Functions, GitHub Actions.
+   - **Value**: Streamlines financial reporting with automated workflows.
+
+2. **[Serverless AWS Cost Monitoring and Alerting Dashboard](#)** 💰
+   - **Objective**: Tracks AWS usage and alerts to prevent overspending.  
+   - **AWS Stack**: Lambda, S3, SNS, CloudWatch, Cost Explorer.
+   - **Value**: Ensures budget control for cloud-dependent operations.
+
+3. **[Customer Support Ticket Analyzer with PySpark](#)** 📊  
+   - **Objective**: Identifies key support issues from ticket data.  
+   - **AWS Stack**: PySpark (local), S3, Lambda, DynamoDB, CloudWatch.
+   - **Value**: Optimizes customer service with big data insights.
+
+4. **[Real-Time Music Playlist Recommendation Engine](#)** 🎶  
    - **Objective**: Serverless pipeline for real-time playlist recommendations.  
    - **AWS Stack**: Lambda, S3, DynamoDB, Kinesis, CloudWatch.  
    - **Value**: Emulates personalized systems used by leading streaming platforms.  
 
-2. **[E-Commerce Inventory Tracker with Automated Alerts](#)** 🛒  
+5. **[E-Commerce Inventory Tracker with Automated Alerts](#)** 🛒  
    - **Objective**: Monitors inventory and triggers low-stock notifications.  
    - **AWS Stack**: S3, Lambda, SNS, CloudWatch, Glue.  
    - **Value**: Enhances operational efficiency for e-commerce workflows.    
 
-3. **[Fitness Tracker Data Pipeline](#)** 🏃‍♂️  
+6. **[Fitness Tracker Data Pipeline](#)** 🏃‍♂️  
    - **Objective**: Aggregates mock fitness tracker data into daily summaries.  
    - **AWS Stack**: S3, Lambda, DynamoDB, CloudWatch, Glue.  
    - **Value**: Supports data-driven health-tech applications.  
 
-4. **[Serverless Weather Data ETL Pipeline](#)** ☀️  
+7. **[Serverless Weather Data ETL Pipeline](#)** ☀️  
    - **Objective**: Processes weather data from APIs into structured storage.  
    - **AWS Stack**: Lambda, S3, DynamoDB, Step Functions, CloudWatch.  
-   - **Value**: Demonstrates robust ETL capabilities for enterprise use.  
+   - **Value**: Demonstrates robust ETL capabilities for enterprise use.
+
+8. **[AWS Data Lake Project](#)** 🎛️ 
+   - **Objective**: Centralizes mock data into a scalable AWS data lake.  
+   - **AWS Stack**: S3, Lambda, DynamoDB, Glue, CloudWatch.  
+   - **Value**: Enables efficient data management for analytics.
+
+9. **[AWS S3-Glue-Athena Pipeline](#)** 🔍
+   - **Objective**: Transforms and queries S3 data with serverless tools. 
+   - **AWS Stack**: S3, Glue, Athena, Lambda, CloudWatch.  
+   - **Value**: Provides fast, cost-effective data analysis capabilities.
+  
 
 *Repositories contain detailed implementations and outcomes.* 
 
