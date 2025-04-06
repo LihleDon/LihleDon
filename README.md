@@ -34,19 +34,14 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
 2. **[E-Commerce Inventory Tracker with Automated Alerts](#)** 🛒  
    - **Objective**: Monitors inventory and triggers low-stock notifications.  
    - **AWS Stack**: S3, Lambda, SNS, CloudWatch, Glue.  
-   - **Value**: Enhances operational efficiency for e-commerce workflows.  
+   - **Value**: Enhances operational efficiency for e-commerce workflows.    
 
-3. **[Social Media Sentiment Analysis Pipeline](#)** 📱  
-   - **Objective**: Extracts sentiment insights from mock social media data.  
-   - **AWS Stack**: S3, Lambda, Comprehend, Athena, CloudWatch.  
-   - **Value**: Provides actionable analytics for digital platforms.  
-
-4. **[Fitness Tracker Data Pipeline](#)** 🏃‍♂️  
+3. **[Fitness Tracker Data Pipeline](#)** 🏃‍♂️  
    - **Objective**: Aggregates mock fitness tracker data into daily summaries.  
    - **AWS Stack**: S3, Lambda, DynamoDB, CloudWatch, Glue.  
    - **Value**: Supports data-driven health-tech applications.  
 
-5. **[Serverless Weather Data ETL Pipeline](#)** ☀️  
+4. **[Serverless Weather Data ETL Pipeline](#)** ☀️  
    - **Objective**: Processes weather data from APIs into structured storage.  
    - **AWS Stack**: Lambda, S3, DynamoDB, Step Functions, CloudWatch.  
    - **Value**: Demonstrates robust ETL capabilities for enterprise use.  
