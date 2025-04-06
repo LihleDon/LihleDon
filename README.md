@@ -37,7 +37,7 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
    - **AWS Stack**: Lambda, S3, SNS, CloudWatch, Cost Explorer.
    - **Value**: Ensures budget control for cloud-dependent operations.
 
-3. **[Customer Support Ticket Analyzer with PySpark](#)** 📊  
+3. **[Customer Support Ticket Analyzer with PySpark](#)** 💻 
    - **Objective**: Identifies key support issues from ticket data.  
    - **AWS Stack**: PySpark (local), S3, Lambda, DynamoDB, CloudWatch.
    - **Value**: Optimizes customer service with big data insights.
