@@ -31,36 +31,43 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
    - **Objective**: Aligns sales data across systems for accuracy.  
    - **AWS Stack**: Lambda, S3, DynamoDB, Step Functions, GitHub Actions.
    - **Value**: Streamlines financial reporting with automated workflows.
+   - **Solved**: Kept sales numbers corresponding across all systems.
 
 2. **[Serverless AWS Cost Monitoring and Alerting Dashboard](#)** 💰
    - **Objective**: Tracks AWS usage and alerts to prevent overspending.  
    - **AWS Stack**: Lambda, S3, SNS, CloudWatch, Cost Explorer.
    - **Value**: Ensures budget control for cloud-dependent operations.
+   - **Solved**: Reduced overspending risks with proactive cost monitoring.
 
 3. **[Customer Support Ticket Analyzer with PySpark](#)** 💻 
    - **Objective**: Identifies key support issues from ticket data.  
    - **AWS Stack**: PySpark (local), S3, Lambda, DynamoDB, CloudWatch.
    - **Value**: Optimizes customer service with big data insights.
+   - **Solved**: Fixed support delays by spotting big issues.
 
 4. **[Real-Time Music Playlist Recommendation Engine](#)** 🎶  
    - **Objective**: Serverless pipeline for real-time playlist recommendations.  
    - **AWS Stack**: Lambda, S3, DynamoDB, Kinesis, CloudWatch.  
-   - **Value**: Emulates personalized systems used by leading streaming platforms.  
+   - **Value**: Emulates personalized systems used by leading streaming platforms.
+   - **Solved**: Made finding the perfect personalized playlist quick and easy.
 
 5. **[E-Commerce Inventory Tracker with Automated Alerts](#)** 🛒  
    - **Objective**: Monitors inventory and triggers low-stock notifications.  
    - **AWS Stack**: S3, Lambda, SNS, CloudWatch, Glue.  
-   - **Value**: Enhances operational efficiency for e-commerce workflows.    
-
+   - **Value**: Enhances operational efficiency for e-commerce workflows.
+   - **Solved**: Prevented stockouts using automated inventory monitoring.
+     
 6. **[Fitness Tracker Data Pipeline](#)** 🏃‍♂️  
    - **Objective**: Aggregates mock fitness tracker data into daily summaries.  
    - **AWS Stack**: S3, Lambda, DynamoDB, CloudWatch, Glue.  
-   - **Value**: Supports data-driven health-tech applications.  
+   - **Value**: Supports data-driven health-tech applications.
+   - **Solved**: Simplified fitness tracking by consolidating data into actionable summaries.  
 
 7. **[Serverless Weather Data ETL Pipeline](#)** ☀️  
    - **Objective**: Processes weather data from APIs into structured storage.  
    - **AWS Stack**: Lambda, S3, DynamoDB, Step Functions, CloudWatch.  
    - **Value**: Demonstrates robust ETL capabilities for enterprise use.
+   - **Solved**: Organized raw weather data for easy analysis and decision-making.
 
 8. **[AWS Data Lake Project](#)** 🎛️ 
    - **Objective**: Centralizes mock data into a scalable AWS data lake.  
