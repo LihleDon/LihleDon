@@ -39,11 +39,11 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
    - **Value**: Ensures budget control for cloud-dependent operations.
    - **Solved**: Reduced overspending risks with proactive cost monitoring.
 
-3. **[Customer Support Ticket Analyzer with PySpark](#)** 💻 
-   - **Objective**: Identifies key support issues from ticket data.  
-   - **AWS Stack**: PySpark (local), S3, Lambda, DynamoDB, CloudWatch.
-   - **Value**: Optimizes customer service with big data insights.
-   - **Solved**: Fixed support delays by spotting big issues.
+3. **[Retail Sales Trend Analyzer](#)** 💻 
+   - **Objective**: Identify top products and sales trends from mock retail data.  
+   - **AWS Stack**: Powershell, PySpark (local), CLI, S3
+   - **Value**: Uploaded insights to S3 via PowerShell, delivering retail analytics within Free Tier limits. 
+   - **Solved**: Used PySpark SQL to improve data aggregation, making trend analysis faster and more effective.
 
 4. **[Real-Time Music Playlist Recommendation Engine](#)** 🎶  
    - **Objective**: Serverless pipeline for real-time playlist recommendations.  
