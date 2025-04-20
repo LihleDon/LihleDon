@@ -7,10 +7,15 @@ A dedicated professional focused on crafting efficient, serverless data solution
 
 ## Expertise & Credentials 📜  
 - **Certifications**:  
-  - AWS Certified Cloud Practitioner (Completed) 
-  - AWS Solutions Architect Associate (Targeted Completion)
-  - AWS Certified Data Engineer Associate (Scheduled Exam)  
+  - AWS Certified Cloud Practitioner
   - SQL (Codecademy) | HashiCorp Certified: Terraform Associate (Udemy)
+  - Data Lake Mastery: Big Data (Udemy)
+  - Applied Python Data Engineering (Coursera)                  
+Covered Spark, Hadoop, Snowflake, Docker, Kubernetes, and Data Visualization tools for Data Engineering. 
+  - DeepLearning.AI Data Engineering
+  - AWS Solutions Architect Associate (Targeted Completion)
+  - AWS Certified Data Engineer Associate (Scheduled Exam)
+    
 - **Professional Network**: LinkedIn: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b) 
 
 ---
