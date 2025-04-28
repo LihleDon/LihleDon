@@ -28,7 +28,7 @@ Covered Spark, Hadoop, Snowflake, Docker, Kubernetes, and Data Visualization too
 
 ---
 
-## Highlighted Projects 
+## Projects 
 Demonstrated proficiency through practical, real-world, industry-aligned AWS solutions: 
 
 
