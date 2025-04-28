@@ -89,14 +89,6 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
 
 ---
 
-## Professional Strengths  
-- **Initiative**: Acquired advanced AWS skills from a non-technical foundation.  
-- **Application**: Delivered projects addressing real-world data challenges.  
-- **Adaptability**: Continuously refining expertise through certifications and practice.  
-- **Drive**: Fueled by a commitment to advancing cloud data engineering and automation.  
-
----
-
 ## Connect 📬  
 - LinkedIn: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b)  
 - Email: [1lihle001@gmail.com](mailto:1lihle001@gmail.com)  
