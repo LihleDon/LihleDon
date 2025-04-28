@@ -87,11 +87,4 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
 
 *Repositories contain detailed implementations and outcomes.* 
 
----
-
-## Connect 📬  
-- LinkedIn: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b)  
-- Email: [1lihle001@gmail.com](mailto:1lihle001@gmail.com)  
-- **Objective**: Targeting AWS Data Engineering opportunities to contribute value and gain innovative experience. 
-
-*Currently refining skills and certifications to deliver value in cloud engineering roles.* ⚙️  
+--- 
