@@ -51,7 +51,7 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
    - **Value**: Uploaded insights to S3 via PowerShell, delivering retail analytics within Free Tier limits. 
    - **Solved**: Used PySpark SQL to improve data aggregation, making trend analysis faster and more effective.
 
-4. **[Real-Time Music Playlist Recommendation Engine](#)[Real-time pipelines & Analytics]** 🎶  
+4. **[Real-Time Music Playlist Recommendation Engine](https://github.com/LihleDon/Real-Time-Music-Playlist-Recommendation-Engine)[Real-time pipelines & Analytics]** 🎶  
    - **Objective**: Serverless pipeline for real-time playlist recommendations.  
    - **AWS Stack**: Lambda, S3, DynamoDB, Kinesis, CloudWatch.  
    - **Value**: Emulates personalized systems used by leading streaming platforms.
