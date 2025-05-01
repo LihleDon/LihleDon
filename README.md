@@ -39,7 +39,7 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
    - **Value**: Streamlines financial reporting with automated workflows.
    - **Solved**: Kept sales numbers corresponding across all systems.
 
-2. **[Serverless AWS Cost Monitoring and Alerting Dashboard](#)[Cloud Financial Management & Risk Mitigation]** 💰
+2. **[Serverless AWS Cost Monitoring and Alerting Dashboard](https://github.com/LihleDon/Serverless-AWS-Cost-Monitoring-and-Alerting-Dashboard)[Cloud Financial Management & Risk Mitigation]** 💰
    - **Objective**: Tracks AWS usage and alerts to prevent overspending.  
    - **AWS Stack**: Lambda, S3, SNS, CloudWatch, Cost Explorer.
    - **Value**: Ensures budget control for cloud-dependent operations.
