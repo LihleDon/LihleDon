@@ -9,7 +9,7 @@ A professional proficient in crafting efficient, serverless data solutions with 
 - **Tools**: AWS (Lambda, S3, DynamoDB, Kinesis, SNS, Glue, Step Functions, Athena, CloudWatch)  
 - **Programming**: Python (data processing, scripting), SQL (query optimization, aggregation)  
 - **Infrastructure**: Terraform (infrastructure-as-code), Serverless Architecture  
-- **Data Engineering**: ETL Pipelines, Real-Time Data Processing, Sentiment Analysis, Data Modeling  
+- **Data Engineering**: ETL Pipelines, CI/CD, Real-Time Data Processing, Sentiment Analysis, Data Modeling  
 
 ---
 
