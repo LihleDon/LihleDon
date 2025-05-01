@@ -45,7 +45,7 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
    - **Value**: Ensures budget control for cloud-dependent operations.
    - **Solved**: Reduced overspending risks with proactive cost monitoring.
 
-3. **[Retail Sales Trend Analyzer](#)[Analytics]** 💻 
+3. **[Retail Sales Trend Analyzer](https://github.com/LihleDon/Retail-Sales-Trend-Analyzer-)[Analytics]** 💻 
    - **Objective**: Identify top products and sales trends from mock retail data.  
    - **AWS Stack**: Powershell, PySpark (local), CLI, S3
    - **Value**: Uploaded insights to S3 via PowerShell, delivering retail analytics within Free Tier limits. 
