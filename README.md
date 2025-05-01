@@ -57,7 +57,7 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
    - **Value**: Emulates personalized systems used by leading streaming platforms.
    - **Solved**: Made finding the perfect personalized playlist quick and easy.
 
-5. **[E-Commerce Inventory Tracker with Automated Alerts](#)[Analytics]** 🛒  
+5. **[E-Commerce Inventory Tracker with Automated Alerts](https://github.com/LihleDon/E-Commerce-Inventory-Tracker-with-Automated-Alerts)[Analytics]** 🛒  
    - **Objective**: Monitors inventory and triggers low-stock notifications.  
    - **AWS Stack**: S3, Lambda, SNS, CloudWatch, Glue.  
    - **Value**: Enhances operational efficiency for e-commerce workflows.
