@@ -33,7 +33,7 @@ Covered Spark, Hadoop, Snowflake, Docker, Kubernetes, and Data Visualization too
 Demonstrated proficiency through practical, real-world, industry-aligned AWS solutions: 
 
 
-1. **[Sales Data Sync Automation Pipeline](#)  [Workflow Automation, Serverless Orchestration & CI/CD]** 📈 
+1. **[Sales Data Sync Automation Pipeline](https://github.com/LihleDon/Sales-Data-Sync-Automation-Pipeline)(#)  [Workflow Automation, Serverless Orchestration & CI/CD]** 📈 
    - **Objective**: Aligns sales data across systems for accuracy.  
    - **AWS Stack**: Lambda, S3, DynamoDB, Step Functions, GitHub Actions.
    - **Value**: Streamlines financial reporting with automated workflows.
