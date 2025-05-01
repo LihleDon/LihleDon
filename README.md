@@ -13,7 +13,7 @@ A professional proficient in crafting efficient, serverless data solutions with 
 
 ---
 
-## [My Projects](https://github.com/LihleDon?tab=repositories) 
+## [Projects](https://github.com/LihleDon?tab=repositories) 
 *Click the project name to view full technical contents.*
 
 Demonstrated proficiency through practical, real-world, industry-aligned AWS solutions: 
