@@ -28,9 +28,8 @@ Covered Spark, Hadoop, Snowflake, Docker, Kubernetes, and Data Visualization too
 
 ---
 
-## [My Projects](https://github.com/LihleDon?tab=repositories) 
+## [My Projects](https://github.com/LihleDon?tab=repositories) (*Click the project name to view full technical contents.*)
 Demonstrated proficiency through practical, real-world, industry-aligned AWS solutions: 
-*Click the project name to view full technical contents.*
 
 1. **[Sales Data Sync Automation Pipeline](https://github.com/LihleDon/Sales-Data-Sync-Automation-Pipeline)(#)  [Workflow Automation, Serverless Orchestration & CI/CD]** 📈 
    - **Objective**: Aligns sales data across systems for accuracy.  
