@@ -1,7 +1,7 @@
  
 ## AWS Data Engineer | Data Pipeline Architect | Cloud Solutions
 
-A professional proficient in crafting efficient, serverless data solutions with AWS. My profile highlights practical experience with cloud tools and a strong results solving real-world data challenges.
+A professional proficient in crafting efficient, serverless data solutions with AWS. My profile highlights practical experience with cloud tools and strong results, solving real-world data challenges.
 
 ---
 
