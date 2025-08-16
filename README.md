@@ -80,8 +80,8 @@ Demonstrated proficiency through practical, real-world, industry-aligned AWS sol
   - Applied Python Data Engineering (Coursera)                  
 Covered Spark, Hadoop, Snowflake, Docker, Kubernetes, and Data Visualization tools for Data Engineering. 
   - DeepLearning.AI Data Engineering
-  - AWS Solutions Architect Associate (Targeted Completion)
-  - AWS Certified Data Engineer Associate (Scheduled Exam)
+  - AWS Solutions Architect Associate 
+  - AWS Certified Data Engineer Associate
     
 - **Professional Network**: LinkedIn: [Lihle Dotyeni](https://www.linkedin.com/in/lihle-dotyeni-28297126b) 
 
