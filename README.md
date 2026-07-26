@@ -53,4 +53,4 @@ More projects below are in active development and will move up here once they're
 
 Open to data engineering roles, remote or based in South Africa.
 
-[LinkedIn](https://www.linkedin.com/in/lihle-dotyeni-28297126b) · [GitHub](https://github.com/LihleDon)
+[LinkedIn](https://www.linkedin.com/in/lihle-d) · [GitHub](https://github.com/LihleDon)
