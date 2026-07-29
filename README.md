@@ -13,7 +13,7 @@
 
 ## What I build
 
-I design and build **data pipelines that actually work in production**. From raw ingestion to clean, queryable, AI-ready data. My focus is on building infrastructure that data teams can rely on: automated, monitored, well-documented, and cost-aware.
+I design and build **data pipelines that work in production**. From raw ingestion to clean, queryable, AI-ready data. My focus is on building infrastructure that data teams can rely on: automated, monitored, well-documented, and cost-aware.
 
 I work across the full data engineering stack:
 
